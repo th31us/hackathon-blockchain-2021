@@ -1,0 +1,2 @@
+record id,ID,hospital ID,first_name,last_name,date of birth,address,phone,email,gender,reason for visit,level of pain
+1,2348294,Cryptomaniacs Hospital,Janessa,Wicks,7/11/2019,7 Arrowood Circle,349-591-9743,jwicks0@tamu.edu,Polygender,"Puncture wound with foreign body of right index finger with damage to nail, subsequent encounter",High

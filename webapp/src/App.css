@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+  /* color:rgb(10, 4, 4); */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-image: url('bg_app.jpg');
+  position: relative;
+  opacity: 0.70;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-weight: 400;
+}
+
+.border {
+  margin: 30px;
+  background-color: #291717;
+  border: 1px solid rgb(7, 37, 43);
+  opacity: 0.75;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 
+    sans-serif;
+  /* outline: 5px dashed rgb(74, 142, 173); */
+  font-weight: 500;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+label {
+  color:rgb(255, 255, 255); 
+  
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 
+    sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+p {
+  color:rgb(255, 255, 255);
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 
+    sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.download{
+  width: auto;
+  position: relative;
+  font-size: 18px;
+}
+
+.myBtn {
+  scroll-behavior: smooth;
+
+}
+/* 
+.bgimg-1 {
+  background-image: url("bg1.jpg");
+  min-height: 100%;
+}
+
+.bgimg-2 {
+  background-image: url("map2.png");
+  min-height: 400px; */
+/* } */
+
+.App-navbar {
+  background-color: hsl(183, 69%, 33%);
+  color:rgb(10, 4, 4);
+}
+
+.App-link {
+  color: #56b8a2;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+table, th, td {
+  border:1px solid rgb(255, 255, 255);
+  color:rgb(255, 255, 255);
+}
+
+.App-body {
+  background-image: url('health.jpg');
+  position: relative;
+  opacity: 0.60;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 950px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8px + 2vmin);
+  /* color: rgb(29, 15, 15); */
+}
+
