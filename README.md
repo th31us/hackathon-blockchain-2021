@@ -16,10 +16,8 @@ Hospitals rely on accurate patient data to determine important outcome measures 
 <h3>Objective</h3>
 To determine if an electronic patient pre-fill data collection web application is effective in the data collection method for key hospital outcome measures when compared with alternative hospital data collection methods, such as completing paper forms upon arrival at the hospital. The web application will provide patients who need emergency services with the option to complete basic patient data, including the reason for their ER visit. The data collected from the web app will be transmitted to the hospital to notify them of an incoming patient. 
 
-
 <h2>TECHNOLOGIES USED</h2>
 Moralis application - Moralis was used to create the Patient Information webapp to allow the patients to input their information. After the patient submits their information, the information would be sent to the Moralis servers and as a .json file. 
-
 
 IPFS - After the user inputs the patient information, the .json file that was created previously will connect directly to the IPFS so the information would be stored there. 
 
