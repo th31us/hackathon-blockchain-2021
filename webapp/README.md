@@ -26,3 +26,5 @@ There, now the WebAPP is up and running.
 
 ### Bugs: 
 The submitted webapp is not able to change the patient data record according to input from the user yet. The current display table fetches data from the ipfs data that has already been uploaded from the patient input on the Moralis WebAPP side according to a particular CID that is stated in the jsontotable.jsx script. 
+
+The Download button on the webapp downloads a csv file directly from Web3Storage where a sample hospital record had been stored. In future, we hope to connect it to the json table such that it can directly convert the table to a csv file and download with the click of a button so that hospital staff who use this webapp are able to download the patient data and match it with current records of the patient if any. 
