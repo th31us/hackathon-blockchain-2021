@@ -13,6 +13,7 @@ export default class NameForm extends React.Component {
       console.log(event.target.elements.Record_ID.value)
       console.log(event.target.Record_ID.value)
       console.log(this.inputNode.value)
+      return(this.inputNode.value)
     }
     render() {
       return (

@@ -13,10 +13,10 @@ import $ from 'jquery';
 
 //     your_form.action = urlLink;
 
-var x = document.getElementById("Form"); 
-
+// var x = document.getElementById("Form"); 
+let url = 'https://ipfs.io/ipfs/QmVXCdAp852utXKF7Gvovn3Bvncegn974j71VTGYUzjnNU';
 // let url = 'https://ipfs.io/ipfs/' + 'QmXB2URKS9hTrdDbndsNYA3g8rcmSfC1VPB4kL5z7mUFuN';
-let url = 'https://ipfs.io/ipfs/' + x;
+// let url = 'https://ipfs.io/ipfs/' + x;
 
 $(document).ready(function(){
     $.getJSON(url, function(data){

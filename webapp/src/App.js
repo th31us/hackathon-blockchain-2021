@@ -13,7 +13,7 @@ function App() {
       <div className="App-navbar">
           <ul>
               <li><a href="./App.js" target="_blank" rel="noopener noreferrer">Home</a></li>
-              <li><a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">Patient Form</a></li>
+              <li><a href="" target="_blank" rel="noopener noreferrer">Patient Form</a></li>
               <li><link rel="icon" href="emergency.png" /></li>
               
           </ul>
