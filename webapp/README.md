@@ -23,3 +23,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 There, now the WebAPP is up and running. 
+
+Bugs: The submitted webapp is not able to change the patient data record according to input from the user yet. The current display table fetches data from the ipfs data that has already been uploaded from the patient input on the Moralis WebAPP side according to a particular CID that is stated in the jsontotable.jsx script. 
