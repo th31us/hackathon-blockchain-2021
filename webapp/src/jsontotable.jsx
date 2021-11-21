@@ -13,7 +13,7 @@ $(document).ready(function(){
         Patient_record += '<td>'+data.PatientID+'</td>';
         Patient_record += '<td>'+data.HospitalName+'</td>';
         Patient_record += '<td>'+data.name+'</td>';
-        Patient_record += '<td>'+data.address+'</td>';
+        Patient_record += '<td>'+data.Address+'</td>';
         Patient_record += '<td>'+data.ReasonForVisit+'</td>';
         Patient_record += '<td>'+data.LevelOfPain+'</td>';
     // employee_data += '<td>'+value.website+'</td>';
