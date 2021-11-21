@@ -21,6 +21,7 @@ To determine if an electronic patient pre-fill data collection web application i
 Moralis application - 
 Moralis was used to create the Patient Information webapp to allow the patients to input their information. After the patient submits their information, the information would be sent to the Moralis servers and as a .json file. 
 
+
 IPFS - After the user inputs the patient information, the .json file that was created previously will connect directly to the IPFS so the information would be stored there. 
 
 React application - 
