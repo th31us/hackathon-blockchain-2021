@@ -22,6 +22,7 @@ IPFS - After the user inputs the patient information, the .json file that was cr
 React application - 
 The React framework was used to make the hospital login app where the hospital staff would be able to access the patient information.  
 
+<h2> Demo </h2>
 Link: https://drive.google.com/file/d/18_leKVGCnX44eMDuCEr4HtxkC8pRqGt1/view?usp=sharing
 
 
